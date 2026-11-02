@@ -2,7 +2,7 @@
 
 **🇧🇷 Português** · [🇺🇸 English](#english) · [🇪🇸 Español](#español)
 
-Monitor de hardware para Windows. Junta num programa só o que normalmente exige vários (CPU-Z, GPU-Z, HWMonitor): as especificações de cada peça, os sensores ao vivo e ferramentas para diagnosticar o computador. Não precisa instalar: é um arquivo só.
+Monitor de hardware para Windows. Junta num programa só o que normalmente exige vários: as especificações de cada peça, os sensores ao vivo e ferramentas para diagnosticar o computador. Não precisa instalar: é um arquivo só.
 
 ### Baixar
 
