@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "sha256": "a089e160997f2c052188c10eb093cb2bea5e05db8a4879bf4b868027553ebbc8",
-  "notes": "Atualização automática pelo GitHub.\nTemperatura da placa de vídeo para NVIDIA, AMD e Intel.\nLeitura das ventoinhas da placa-mãe.\nBotões de abrir site e relatório em PDF corrigidos.",
+  "version": "2.3",
+  "sha256": "dfb4bcce5e692694f9d4e0ce023d0b7fc7294da4647fd721e2221634aa61b9f5",
+  "notes": "Assinatura \"Desenvolvido pelo Varela\" embaixo do menu.",
   "date": "2026-11-02"
 }

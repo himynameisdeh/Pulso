@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.3 — 02/11/2026
+
+- Assinatura "Desenvolvido pelo Varela" embaixo do menu.
+
 # Pulso 2.2 — 02/11/2026
 
 ### 🇧🇷 Novidades da versão 2.2
