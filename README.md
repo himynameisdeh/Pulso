@@ -6,12 +6,13 @@ Monitor de hardware para Windows. Junta num programa só o que normalmente exige
 
 ### Baixar
 
-Vá em **[Releases](../../releases/latest)** e baixe:
+**[⬇ Baixar o Pulso (pacote completo)](https://github.com/himynameisdeh/Pulso/raw/main/download/Pulso-pacote-completo.zip)**
 
-- **Pulso-pacote-completo.zip**: para usar pela primeira vez (programa, driver de sensores e manual em PDF).
-- **Pulso.exe**: só o programa.
+O pacote traz o programa, o driver de sensores e o manual em PDF. Extraia e abra o **Pulso.exe**.
 
-Depois da primeira vez, o Pulso se atualiza sozinho: quando houver versão nova, aparece o botão **Atualizar** dentro do programa.
+Depois disso, o Pulso se atualiza sozinho: quando houver versão nova, aparece o botão **Atualizar** dentro do programa.
+
+Versão atual: **2.2** · [O que mudou](atualizacao/NOVIDADES.md)
 
 ### O que ele mostra
 
@@ -47,12 +48,13 @@ Hardware monitor for Windows. It brings together in a single program what usuall
 
 ### Download
 
-Go to **[Releases](../../releases/latest)** and download:
+**[⬇ Download Pulso (full package)](https://github.com/himynameisdeh/Pulso/raw/main/download/Pulso-pacote-completo.zip)**
 
-- **Pulso-pacote-completo.zip**: for first-time use (program, sensor driver and PDF manual).
-- **Pulso.exe**: the program only.
+The package includes the program, the sensor driver and the PDF manual. Extract it and open **Pulso.exe**.
 
-After the first time, Pulso updates itself: when a new version is out, an **Update** button shows up inside the program.
+From then on, Pulso updates itself: when a new version is out, an **Atualizar** (update) button shows up inside the program.
+
+Current version: **2.2** · [What's new](atualizacao/NOVIDADES.md)
 
 ### What it shows
 
@@ -88,12 +90,13 @@ Monitor de hardware para Windows. Reúne en un solo programa lo que normalmente 
 
 ### Descargar
 
-Ve a **[Releases](../../releases/latest)** y descarga:
+**[⬇ Descargar Pulso (paquete completo)](https://github.com/himynameisdeh/Pulso/raw/main/download/Pulso-pacote-completo.zip)**
 
-- **Pulso-pacote-completo.zip**: para usarlo por primera vez (programa, driver de sensores y manual en PDF).
-- **Pulso.exe**: solo el programa.
+El paquete trae el programa, el driver de sensores y el manual en PDF. Descomprímelo y abre **Pulso.exe**.
 
-Después de la primera vez, Pulso se actualiza solo: cuando haya una versión nueva, aparece el botón **Actualizar** dentro del programa.
+A partir de ahí, Pulso se actualiza solo: cuando haya una versión nueva, aparece el botón **Atualizar** (actualizar) dentro del programa.
+
+Versión actual: **2.2** · [Novedades](atualizacao/NOVIDADES.md)
 
 ### Qué muestra
 
