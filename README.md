@@ -44,7 +44,7 @@ O manual completo, com imagens de todas as telas, vem no pacote completo.
 <a id="english"></a>
 ## 🇺🇸 English
 
-Hardware monitor for Windows. It brings together in a single program what usually takes several (CPU-Z, GPU-Z, HWMonitor): the specs of every part, live sensors and tools to diagnose the computer. No installation needed: it's a single file.
+Hardware monitor for Windows. It brings together in a single program what usually takes several: the specs of every part, live sensors and tools to diagnose the computer. No installation needed: it's a single file.
 
 ### Download
 
@@ -86,7 +86,7 @@ The interface is in Brazilian Portuguese.
 <a id="español"></a>
 ## 🇪🇸 Español
 
-Monitor de hardware para Windows. Reúne en un solo programa lo que normalmente requiere varios (CPU-Z, GPU-Z, HWMonitor): las especificaciones de cada pieza, los sensores en tiempo real y herramientas para diagnosticar el equipo. No hace falta instalarlo: es un solo archivo.
+Monitor de hardware para Windows. Reúne en un solo programa lo que normalmente requiere varios: las especificaciones de cada pieza, los sensores en tiempo real y herramientas para diagnosticar el equipo. No hace falta instalarlo: es un solo archivo.
 
 ### Descargar
 
