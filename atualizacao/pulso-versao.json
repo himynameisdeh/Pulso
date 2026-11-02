@@ -1,6 +1,6 @@
 {
-  "version": "2.3",
-  "sha256": "dfb4bcce5e692694f9d4e0ce023d0b7fc7294da4647fd721e2221634aa61b9f5",
-  "notes": "Assinatura \"Desenvolvido pelo Varela\" embaixo do menu.",
+  "version": "2.4",
+  "sha256": "92ec2aa59391e5d8bd9a7fbf836fbdd16698cb4b5f8d7cf9eece992923b2199c",
+  "notes": "Teste de internet: download, upload, ping e oscilação, pelos servidores da Cloudflare.\nQualidade do Wi-Fi (sinal, frequência, velocidade do link) com dicas para melhorar.\nLista do que dá para fazer com a sua internet e histórico dos testes.",
   "date": "2026-11-02"
 }

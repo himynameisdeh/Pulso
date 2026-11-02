@@ -1,5 +1,11 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.4 — 02/11/2026
+
+- Teste de internet: download, upload, ping e oscilação, pelos servidores da Cloudflare.
+- Qualidade do Wi-Fi (sinal, frequência, velocidade do link) com dicas para melhorar.
+- Lista do que dá para fazer com a sua internet e histórico dos testes.
+
 # Pulso 2.3 — 02/11/2026
 
 - Assinatura "Desenvolvido pelo Varela" embaixo do menu.
