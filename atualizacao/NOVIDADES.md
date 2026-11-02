@@ -6,6 +6,10 @@
 - Qualidade do Wi-Fi (sinal, frequência, velocidade do link) com dicas para melhorar.
 - Lista do que dá para fazer com a sua internet e histórico dos testes.
 
+**🇺🇸** Internet speed test (download, upload, ping and jitter via Cloudflare), Wi-Fi quality (signal, band, link speed) with tips, what your connection can handle, and test history.
+
+**🇪🇸** Prueba de velocidad de internet (descarga, subida, ping y variación vía Cloudflare), calidad del Wi-Fi (señal, banda, velocidad del enlace) con consejos, qué permite tu conexión e historial de pruebas.
+
 # Pulso 2.3 — 02/11/2026
 
 - Assinatura "Desenvolvido pelo Varela" embaixo do menu.
