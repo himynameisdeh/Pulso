@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.5 — 03/11/2026
+
+- Atualizações agora são assinadas digitalmente: o Pulso só aceita versões assinadas pelo autor.
+- Mais proteção contra programas falsos, mesmo se alguém mexer no repositório.
+
 # Pulso 2.4 — 02/11/2026
 
 - Teste de internet: download, upload, ping e oscilação, pelos servidores da Cloudflare.
