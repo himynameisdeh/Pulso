@@ -5,6 +5,10 @@
 - Atualizações agora são assinadas digitalmente: o Pulso só aceita versões assinadas pelo autor.
 - Mais proteção contra programas falsos, mesmo se alguém mexer no repositório.
 
+**🇺🇸** Updates are now digitally signed: Pulso only accepts versions signed by the author, protecting you from fake programs even if someone tampers with the repository.
+
+**🇪🇸** Las actualizaciones ahora están firmadas digitalmente: Pulso solo acepta versiones firmadas por el autor, lo que te protege de programas falsos incluso si alguien altera el repositorio.
+
 # Pulso 2.4 — 02/11/2026
 
 - Teste de internet: download, upload, ping e oscilação, pelos servidores da Cloudflare.
