@@ -4,6 +4,10 @@
 
 - Barra de título da janela agora acompanha o tema: cinza escuro no modo escuro e clara no modo claro.
 
+**🇺🇸** The window title bar now follows the theme: dark gray in dark mode, light in light mode.
+
+**🇪🇸** La barra de título de la ventana ahora sigue el tema: gris oscuro en modo oscuro y clara en modo claro.
+
 # Pulso 2.6 — 05/11/2026
 
 - Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.
