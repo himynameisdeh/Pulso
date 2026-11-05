@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.6 — 05/11/2026
+
+- Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.
+- Modo escuro agora em cinza escuro, com as cores ajustadas.
+
 # Pulso 2.5 — 03/11/2026
 
 - Atualizações agora são assinadas digitalmente: o Pulso só aceita versões assinadas pelo autor.

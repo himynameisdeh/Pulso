@@ -1,7 +1,7 @@
 {
-  "version": "2.5",
-  "sha256": "6e53a7dc9ed10484f3cdc672379f231c355593361e2808a5a59be0443abe0768",
-  "notes": "Atualizações agora são assinadas digitalmente: o Pulso só aceita versões assinadas pelo autor.\nMais proteção contra programas falsos, mesmo se alguém mexer no repositório.",
-  "date": "2026-11-03",
-  "sig": "+09mLqiU9JudvrNIQ9x8QvwkraULHtFNVcUfq13juZhGSRlBNOj1bb3AI0QQ0cLlvdw9LFRbkrco1jKG6OeJCQ=="
+  "version": "2.6",
+  "sha256": "40bb404458e7608583cba3eeb1a3cbc1eba6165a1169dc2048f3a3705e52f2c3",
+  "notes": "Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.\nModo escuro agora em cinza escuro, com as cores ajustadas.",
+  "date": "2026-11-05",
+  "sig": "jG8uvY30EHKsIcnXOwzF21x1+w19Z/SRQwonYiu4D9N2VOtks/GRcEHIIEq45addqOepN9iSmEN69duZ5YBxBA=="
 }
