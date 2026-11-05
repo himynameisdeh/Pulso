@@ -5,6 +5,10 @@
 - Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.
 - Modo escuro agora em cinza escuro, com as cores ajustadas.
 
+**🇺🇸** Hover over the Pulso icon next to the clock to see CPU, graphics card, memory and disk. Dark mode is now dark gray, with matching colors.
+
+**🇪🇸** Pasa el mouse sobre el ícono de Pulso junto al reloj para ver CPU, tarjeta de video, memoria y disco. El modo oscuro ahora es gris oscuro, con colores ajustados.
+
 # Pulso 2.5 — 03/11/2026
 
 - Atualizações agora são assinadas digitalmente: o Pulso só aceita versões assinadas pelo autor.
