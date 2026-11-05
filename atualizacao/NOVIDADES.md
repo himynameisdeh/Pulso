@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.7 — 05/11/2026
+
+- Barra de título da janela agora acompanha o tema: cinza escuro no modo escuro e clara no modo claro.
+
 # Pulso 2.6 — 05/11/2026
 
 - Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.

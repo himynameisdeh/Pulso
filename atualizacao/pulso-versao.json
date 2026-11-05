@@ -1,7 +1,7 @@
 {
-  "version": "2.6",
-  "sha256": "40bb404458e7608583cba3eeb1a3cbc1eba6165a1169dc2048f3a3705e52f2c3",
-  "notes": "Passe o mouse no ícone do Pulso perto do relógio para ver CPU, placa de vídeo, memória e disco.\nModo escuro agora em cinza escuro, com as cores ajustadas.",
+  "version": "2.7",
+  "sha256": "36e39764bdf9c16bc1d76383501134eaf39d67d8750254b41434dd6f7c9d2fe2",
+  "notes": "Barra de título da janela agora acompanha o tema: cinza escuro no modo escuro e clara no modo claro.",
   "date": "2026-11-05",
-  "sig": "jG8uvY30EHKsIcnXOwzF21x1+w19Z/SRQwonYiu4D9N2VOtks/GRcEHIIEq45addqOepN9iSmEN69duZ5YBxBA=="
+  "sig": "8cL74BuZH2LCCqJFHf/5UkZqnXNxCn7l1WduKvUNUFTHoevjdCF9A6G8GfKgR/ycl5xpvczVim2PZvznFQsPBA=="
 }
