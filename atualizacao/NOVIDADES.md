@@ -5,6 +5,10 @@
 - Ver no celular: aponte a câmera para o QR code e acompanhe temperatura, uso, memória, discos, rede e FPS pelo celular (Android ou iPhone), no mesmo Wi-Fi.
 - Somente leitura e protegido por código; dá para trocar o código e desligar quando quiser.
 
+**🇺🇸** View on your phone: scan the QR code and follow temperature, usage, memory, disks, network and FPS on your phone (Android or iPhone) on the same Wi-Fi. Read-only and protected by a code you can change or turn off anytime.
+
+**🇪🇸** Ver en el celular: escanea el código QR y sigue temperatura, uso, memoria, discos, red y FPS desde el celular (Android o iPhone) en el mismo Wi-Fi. Solo lectura y protegido por un código que puedes cambiar o desactivar cuando quieras.
+
 # Pulso 2.10.1 — 16/11/2026
 
 - Novo tema Assombrado: roxo sombrio, névoa fantasmagórica e detalhes em vermelho, com ícone próprio.
