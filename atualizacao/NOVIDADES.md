@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.8 — 16/11/2026
+
+- Novos temas em Ajustes > Aparência: Cyberpunk, Neon, 8 bit e Aventura portátil.
+- A barra de título e a mini janela dos jogos acompanham o tema escolhido.
+
 # Pulso 2.7 — 05/11/2026
 
 - Barra de título da janela agora acompanha o tema: cinza escuro no modo escuro e clara no modo claro.
