@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.11.1 — 16/11/2026
+
+- Ver no celular: aviso para abrir no Google Chrome do celular (o Brave bloqueia esse tipo de conexão).
+
 # Pulso 2.11 — 16/11/2026
 
 - Ver no celular: aponte a câmera para o QR code e acompanhe temperatura, uso, memória, discos, rede e FPS pelo celular (Android ou iPhone), no mesmo Wi-Fi.
