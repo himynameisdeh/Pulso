@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.10 — 16/11/2026
+
+- O ícone perto do relógio e o da barra de tarefas agora mudam junto com o tema escolhido.
+
 # Pulso 2.9 — 16/11/2026
 
 - Mais quatro temas em Ajustes > Aparência: Glacial, Arena, Pop e Pôr do sol.
