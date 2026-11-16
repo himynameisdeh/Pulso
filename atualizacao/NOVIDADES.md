@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.9 — 16/11/2026
+
+- Mais quatro temas em Ajustes > Aparência: Glacial, Arena, Pop e Pôr do sol.
+
 # Pulso 2.8 — 16/11/2026
 
 - Novos temas em Ajustes > Aparência: Cyberpunk, Neon, 8 bit e Aventura portátil.
