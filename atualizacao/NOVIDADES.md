@@ -4,6 +4,10 @@
 
 - O ícone perto do relógio e o da barra de tarefas agora mudam junto com o tema escolhido.
 
+**🇺🇸** The tray icon and the taskbar icon now change along with the chosen theme.
+
+**🇪🇸** El ícono junto al reloj y el de la barra de tareas ahora cambian junto con el tema elegido.
+
 # Pulso 2.9 — 16/11/2026
 
 - Mais quatro temas em Ajustes > Aparência: Glacial, Arena, Pop e Pôr do sol.
