@@ -1,7 +1,7 @@
 {
-  "version": "2.10.1",
-  "sha256": "3189fcf722edcdb058eccc538fa5763a07124a2856036f699fa920d170226f3f",
-  "notes": "Novo tema Assombrado: roxo sombrio, névoa fantasmagórica e detalhes em vermelho, com ícone próprio.",
+  "version": "2.11",
+  "sha256": "0a691f78ecd68eb5c720ae98e47a164f3483296b6e84745355b207f3a5a0ca81",
+  "notes": "Ver no celular: aponte a câmera para o QR code e acompanhe temperatura, uso, memória, discos, rede e FPS pelo celular (Android ou iPhone), no mesmo Wi-Fi.\nSomente leitura e protegido por código; dá para trocar o código e desligar quando quiser.",
   "date": "2026-11-16",
-  "sig": "/yyqIcI+WxBPUkY9CgKZMafTcmyZZdjqk5vX/gtxNYCPupf5uA1To7/+RUjr6VpT2UnT/Y6jPtXZM9k3ZUkGBQ=="
+  "sig": "LmuQD6L0J2qT/19kfRPLdQ4Mi8nUen21BOcWj2hToaQHd+vqSS1BsrogZgc/Gl3CUgECOpAyGkmx/9VCjriXDw=="
 }

@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.11 — 16/11/2026
+
+- Ver no celular: aponte a câmera para o QR code e acompanhe temperatura, uso, memória, discos, rede e FPS pelo celular (Android ou iPhone), no mesmo Wi-Fi.
+- Somente leitura e protegido por código; dá para trocar o código e desligar quando quiser.
+
 # Pulso 2.10.1 — 16/11/2026
 
 - Novo tema Assombrado: roxo sombrio, névoa fantasmagórica e detalhes em vermelho, com ícone próprio.
