@@ -5,6 +5,10 @@
 - Novos temas em Ajustes > Aparência: Cyberpunk, Neon, 8 bit e Aventura portátil.
 - A barra de título e a mini janela dos jogos acompanham o tema escolhido.
 
+**🇺🇸** New themes in Settings > Appearance: Cyberpunk, Neon, 8-bit and Pocket Adventure. The title bar and the in-game mini window follow the chosen theme.
+
+**🇪🇸** Nuevos temas en Ajustes > Apariencia: Cyberpunk, Neón, 8 bits y Aventura portátil. La barra de título y la mini ventana de juegos siguen el tema elegido.
+
 # Pulso 2.7 — 05/11/2026
 
 - Barra de título da janela agora acompanha o tema: cinza escuro no modo escuro e clara no modo claro.
