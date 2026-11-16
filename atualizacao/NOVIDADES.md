@@ -4,6 +4,10 @@
 
 - Mais quatro temas em Ajustes > Aparência: Glacial, Arena, Pop e Pôr do sol.
 
+**🇺🇸** Four more themes in Settings > Appearance: Glacial, Arena, Pop and Sunset.
+
+**🇪🇸** Cuatro temas más en Ajustes > Apariencia: Glacial, Arena, Pop y Atardecer.
+
 # Pulso 2.8 — 16/11/2026
 
 - Novos temas em Ajustes > Aparência: Cyberpunk, Neon, 8 bit e Aventura portátil.
