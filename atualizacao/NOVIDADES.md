@@ -4,6 +4,10 @@
 
 - Ver no celular: aviso para abrir no Google Chrome do celular (o Brave bloqueia esse tipo de conexão).
 
+**🇺🇸** View on your phone: notice to open it in Google Chrome on the phone (Brave blocks this kind of connection).
+
+**🇪🇸** Ver en el celular: aviso para abrirlo en Google Chrome del celular (Brave bloquea este tipo de conexión).
+
 # Pulso 2.11 — 16/11/2026
 
 - Ver no celular: aponte a câmera para o QR code e acompanhe temperatura, uso, memória, discos, rede e FPS pelo celular (Android ou iPhone), no mesmo Wi-Fi.
