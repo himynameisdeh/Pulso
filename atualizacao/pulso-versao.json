@@ -1,7 +1,7 @@
 {
-  "version": "2.10",
-  "sha256": "23f0ca11e7117538eefc8da436f22ac7eff3b8f0447988ef125565884d78ccb1",
-  "notes": "O ícone perto do relógio e o da barra de tarefas agora mudam junto com o tema escolhido.",
+  "version": "2.10.1",
+  "sha256": "3189fcf722edcdb058eccc538fa5763a07124a2856036f699fa920d170226f3f",
+  "notes": "Novo tema Assombrado: roxo sombrio, névoa fantasmagórica e detalhes em vermelho, com ícone próprio.",
   "date": "2026-11-16",
-  "sig": "wfvkayI1YEBE0HkGFCYXc3mCOy0e01K3dxZOGDRqOWBBRD7JeMkuW8jaZGFGSleZv+3LJl6kfJalryS8KDNPDA=="
+  "sig": "/yyqIcI+WxBPUkY9CgKZMafTcmyZZdjqk5vX/gtxNYCPupf5uA1To7/+RUjr6VpT2UnT/Y6jPtXZM9k3ZUkGBQ=="
 }

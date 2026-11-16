@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.10.1 — 16/11/2026
+
+- Novo tema Assombrado: roxo sombrio, névoa fantasmagórica e detalhes em vermelho, com ícone próprio.
+
 # Pulso 2.10 — 16/11/2026
 
 - O ícone perto do relógio e o da barra de tarefas agora mudam junto com o tema escolhido.
