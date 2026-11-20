@@ -5,6 +5,10 @@
 - Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.
 - Guarda o resultado de cada jogo analisado.
 
+**🇺🇸** New Bottleneck screen: while you play, Pulso finds out what is holding back your FPS (graphics card, processor, video memory, RAM, FPS limit or temperature) and gives tips on what to do. Results are saved for each game.
+
+**🇪🇸** Nueva pantalla Cuello de botella: mientras juegas, Pulso descubre qué está limitando tus FPS (tarjeta de video, procesador, memoria de video, RAM, límite de FPS o temperatura) y da consejos. Guarda el resultado de cada juego.
+
 # Pulso 2.11.1 — 16/11/2026
 
 - Ver no celular: aviso para abrir no Google Chrome do celular (o Brave bloqueia esse tipo de conexão).
