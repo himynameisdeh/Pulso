@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.12.1 — 19/11/2026
+
+- Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.
+
 # Pulso 2.12 — 19/11/2026
 
 - Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.

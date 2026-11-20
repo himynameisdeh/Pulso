@@ -1,7 +1,7 @@
 {
-  "version": "2.12",
-  "sha256": "be46a28a22bfcfafa2aadacf0c43e89c5889deb82e5a83a7e514035f3a32ab64",
-  "notes": "Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.\nGuarda o resultado de cada jogo analisado.",
+  "version": "2.12.1",
+  "sha256": "c896cd293b73a8113723c400df224efab80d9292aa9297cefa7379bb21cfc8a4",
+  "notes": "Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.",
   "date": "2026-11-19",
-  "sig": "pUWpge7mWgerEH54GSR0W86Aef0RiZucc5fqdMPARndfXef0qxeVAbPDqpP1jjg3S7LV5IM+ckwVAB0eVhQRDQ=="
+  "sig": "SYzIiMIXFyZmBVhWnwPJ4/9KxMYj441SU/2QftLuvx2TCxejX/4ZVDjqGVhDPxH7bOjbp4QZus6KwIAUZrN0Bw=="
 }
