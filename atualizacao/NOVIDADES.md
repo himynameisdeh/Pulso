@@ -4,6 +4,10 @@
 
 - Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.
 
+**🇺🇸** Cleaner side menu: subtle icons, shorter names, tools and tests separated, and small indicators instead of text.
+
+**🇪🇸** Menú lateral más limpio: íconos discretos, nombres más cortos, herramientas y pruebas separadas e indicadores pequeños en lugar de textos.
+
 # Pulso 2.12 — 19/11/2026
 
 - Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.
