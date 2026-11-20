@@ -1,7 +1,7 @@
 {
-  "version": "2.11.1",
-  "sha256": "4efa5734c49af1319cd30cb0245e4a04f2b0b4ba5425c0e99768f092fac8753e",
-  "notes": "Ver no celular: aviso para abrir no Google Chrome do celular (o Brave bloqueia esse tipo de conexão).",
-  "date": "2026-11-16",
-  "sig": "IOer0ganSDg4u25bV+ObwTL693NRzDpi2Gy7DgPpTZs+gg3LBftjaAcBR7cFuEdz7GYMWRBITW0XhWKgVgjbAQ=="
+  "version": "2.12",
+  "sha256": "be46a28a22bfcfafa2aadacf0c43e89c5889deb82e5a83a7e514035f3a32ab64",
+  "notes": "Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.\nGuarda o resultado de cada jogo analisado.",
+  "date": "2026-11-19",
+  "sig": "pUWpge7mWgerEH54GSR0W86Aef0RiZucc5fqdMPARndfXef0qxeVAbPDqpP1jjg3S7LV5IM+ckwVAB0eVhQRDQ=="
 }

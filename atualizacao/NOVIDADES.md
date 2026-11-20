@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.12 — 19/11/2026
+
+- Nova tela Gargalo: enquanto você joga, o Pulso descobre o que segura o FPS (placa de vídeo, processador, memória de vídeo, RAM, limite de FPS ou temperatura) e dá dicas do que fazer.
+- Guarda o resultado de cada jogo analisado.
+
 # Pulso 2.11.1 — 16/11/2026
 
 - Ver no celular: aviso para abrir no Google Chrome do celular (o Brave bloqueia esse tipo de conexão).
