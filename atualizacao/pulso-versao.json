@@ -1,7 +1,7 @@
 {
-  "version": "2.12.1",
-  "sha256": "c896cd293b73a8113723c400df224efab80d9292aa9297cefa7379bb21cfc8a4",
-  "notes": "Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.",
-  "date": "2026-11-19",
-  "sig": "SYzIiMIXFyZmBVhWnwPJ4/9KxMYj441SU/2QftLuvx2TCxejX/4ZVDjqGVhDPxH7bOjbp4QZus6KwIAUZrN0Bw=="
+  "version": "2.13",
+  "sha256": "a6e2a56b683015dc8d976d85a0f040fd09cd591a4aa7da9f7c73cba9b78b3394",
+  "notes": "Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).\nTravas de segurança: a do processador fica sempre com a BIOS, nunca abaixo de 30%, tudo a 100% acima de 85 °C e tudo volta para a BIOS ao fechar o Pulso.",
+  "date": "2026-11-22",
+  "sig": "W994ftWfAWA/c0TiUGbWiOFXPC8cywYKmQaGgbO2u9T+Xla+WcvNBPZXtBVwIzZBii4BBcLAFJBPWsIlGEcECg=="
 }

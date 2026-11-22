@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.13 — 22/11/2026
+
+- Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).
+- Travas de segurança: a do processador fica sempre com a BIOS, nunca abaixo de 30%, tudo a 100% acima de 85 °C e tudo volta para a BIOS ao fechar o Pulso.
+
 # Pulso 2.12.1 — 19/11/2026
 
 - Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.
