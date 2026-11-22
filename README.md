@@ -17,7 +17,7 @@ Versão atual: **2.2** · [O que mudou](atualizacao/NOVIDADES.md)
 ### O que ele mostra
 
 - **Componentes:** processador, placa de vídeo, memória (pentes e slots), placa-mãe e BIOS, discos (saúde, temperatura e vida útil do SSD), monitores (avisa se estão abaixo dos Hz máximos), rede, periféricos e sistema.
-- **Sensores ao vivo:** temperaturas, consumo, clocks e ventoinhas, com mínimo e máximo.
+- **Sensores ao vivo:** temperaturas, consumo e clocks, com mínimo e máximo.
 - **Programas:** o que mais pesa no processador, na memória, no disco e no vídeo, com botão para fechar.
 - **Histórico:** a última hora em gráficos e gravação dos sensores em planilha (CSV).
 - **Teste de desempenho:** processador, memória e disco, com comparação entre testes.
@@ -29,7 +29,7 @@ Versão atual: **2.2** · [O que mudou](atualizacao/NOVIDADES.md)
 ### Requisitos
 
 - Windows 10 ou 11, 64 bits.
-- Para a temperatura do processador e as ventoinhas: o driver gratuito [PawnIO](https://pawnio.eu) (o Pulso instala com um clique) e o programa aberto como administrador.
+- Para a temperatura do processador: o driver gratuito [PawnIO](https://pawnio.eu) (o Pulso instala com um clique) e o programa aberto como administrador.
 
 ### Primeira vez
 
@@ -59,7 +59,7 @@ Current version: **2.2** · [What's new](atualizacao/NOVIDADES.md)
 ### What it shows
 
 - **Components:** processor, graphics card, memory (modules and slots), motherboard and BIOS, drives (health, temperature and SSD lifespan), monitors (warns when running below the maximum refresh rate), network, peripherals and system.
-- **Live sensors:** temperatures, power, clocks and fans, with minimum and maximum.
+- **Live sensors:** temperatures, power and clocks, with minimum and maximum.
 - **Programs:** what is using the most processor, memory, disk and GPU, with a button to close it.
 - **History:** the last hour in charts, plus sensor logging to a spreadsheet (CSV).
 - **Benchmark:** processor, memory and disk, with comparison between runs.
@@ -73,7 +73,7 @@ The interface is in Brazilian Portuguese.
 ### Requirements
 
 - Windows 10 or 11, 64-bit.
-- For processor temperature and fans: the free [PawnIO](https://pawnio.eu) driver (Pulso installs it in one click) and the program running as administrator.
+- For processor temperature: the free [PawnIO](https://pawnio.eu) driver (Pulso installs it in one click) and the program running as administrator.
 
 ### First run
 
@@ -101,7 +101,7 @@ Versión actual: **2.2** · [Novedades](atualizacao/NOVIDADES.md)
 ### Qué muestra
 
 - **Componentes:** procesador, tarjeta gráfica, memoria (módulos y ranuras), placa base y BIOS, discos (salud, temperatura y vida útil del SSD), monitores (avisa si funcionan por debajo de los Hz máximos), red, periféricos y sistema.
-- **Sensores en tiempo real:** temperaturas, consumo, frecuencias y ventiladores, con mínimo y máximo.
+- **Sensores en tiempo real:** temperaturas, consumo y frecuencias, con mínimo y máximo.
 - **Programas:** lo que más consume procesador, memoria, disco y gráfica, con botón para cerrarlo.
 - **Historial:** la última hora en gráficos y registro de sensores en hoja de cálculo (CSV).
 - **Prueba de rendimiento:** procesador, memoria y disco, con comparación entre pruebas.
@@ -115,7 +115,7 @@ La interfaz está en portugués de Brasil.
 ### Requisitos
 
 - Windows 10 u 11, 64 bits.
-- Para la temperatura del procesador y los ventiladores: el driver gratuito [PawnIO](https://pawnio.eu) (Pulso lo instala con un clic) y el programa abierto como administrador.
+- Para la temperatura del procesador: el driver gratuito [PawnIO](https://pawnio.eu) (Pulso lo instala con un clic) y el programa abierto como administrador.
 
 ### Primera vez
 

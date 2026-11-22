@@ -1,5 +1,9 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.14 — 22/11/2026
+
+- Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.
+
 # Pulso 2.13.1 — 22/11/2026
 
 - Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).

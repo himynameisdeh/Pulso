@@ -1,7 +1,7 @@
 {
-  "version": "2.13.1",
-  "sha256": "de4ac312da41a04374de82f3d640b26e29c0bf8c3cd114078f63cf7b8ee0a62f",
-  "notes": "Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).\nCorrigido: a tela Ver no celular não mostrava o aviso quando estava desligada.",
+  "version": "2.14",
+  "sha256": "ee1b5bc89c47cb68add31dab239603363cac72452a5474c8996c4032faad7bf7",
+  "notes": "Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.",
   "date": "2026-11-22",
-  "sig": "DoO/9xxZuhvR4Qiuof8RMA1dkoUVwq2JqDuiYWgb0GD/mW9OmlR/KSr4I96pu1ql7N4ril2NfBjHGCtjoW/RCg=="
+  "sig": "KTg172caoDWgoav6rCs99BgAie8C8EaeF5Ksg0D8kyDNEAE0xpDhpKcrRgpJ+rFOAuUjCVEm0gDHyRvG+v1GCg=="
 }
