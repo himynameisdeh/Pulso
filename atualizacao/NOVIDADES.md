@@ -5,6 +5,10 @@
 - Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).
 - Corrigido: a tela Ver no celular não mostrava o aviso quando estava desligada.
 
+**🇺🇸** Fan control removed (RPM reading stays on the Motherboard screen). Fixed: the View on your phone screen did not show its notice when turned off.
+
+**🇪🇸** Se quitó el control de ventiladores (la lectura de RPM sigue en la pantalla Placa madre). Corregido: la pantalla Ver en el celular no mostraba el aviso cuando estaba desactivada.
+
 # Pulso 2.13 — 22/11/2026
 
 - Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).
