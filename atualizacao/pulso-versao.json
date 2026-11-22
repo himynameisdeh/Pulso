@@ -1,7 +1,7 @@
 {
-  "version": "2.13",
-  "sha256": "a6e2a56b683015dc8d976d85a0f040fd09cd591a4aa7da9f7c73cba9b78b3394",
-  "notes": "Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).\nTravas de segurança: a do processador fica sempre com a BIOS, nunca abaixo de 30%, tudo a 100% acima de 85 °C e tudo volta para a BIOS ao fechar o Pulso.",
+  "version": "2.13.1",
+  "sha256": "de4ac312da41a04374de82f3d640b26e29c0bf8c3cd114078f63cf7b8ee0a62f",
+  "notes": "Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).\nCorrigido: a tela Ver no celular não mostrava o aviso quando estava desligada.",
   "date": "2026-11-22",
-  "sig": "W994ftWfAWA/c0TiUGbWiOFXPC8cywYKmQaGgbO2u9T+Xla+WcvNBPZXtBVwIzZBii4BBcLAFJBPWsIlGEcECg=="
+  "sig": "DoO/9xxZuhvR4Qiuof8RMA1dkoUVwq2JqDuiYWgb0GD/mW9OmlR/KSr4I96pu1ql7N4ril2NfBjHGCtjoW/RCg=="
 }

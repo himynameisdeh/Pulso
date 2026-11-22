@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.13.1 — 22/11/2026
+
+- Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).
+- Corrigido: a tela Ver no celular não mostrava o aviso quando estava desligada.
+
 # Pulso 2.13 — 22/11/2026
 
 - Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).
