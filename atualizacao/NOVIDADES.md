@@ -5,6 +5,10 @@
 - Nova tela Ventoinhas: controle as ventoinhas do gabinete ligadas na placa-mãe (velocidade fixa ou pela temperatura).
 - Travas de segurança: a do processador fica sempre com a BIOS, nunca abaixo de 30%, tudo a 100% acima de 85 °C e tudo volta para a BIOS ao fechar o Pulso.
 
+**🇺🇸** New Fans screen: control the case fans connected to the motherboard (fixed speed or by temperature). Safety locks: the CPU fan always stays with the BIOS, never below 30%, everything to 100% above 85 °C, and control returns to the BIOS when Pulso closes.
+
+**🇪🇸** Nueva pantalla Ventiladores: controla los ventiladores del gabinete conectados a la placa madre (velocidad fija o por temperatura). Seguridad: el del procesador siempre queda con la BIOS, nunca por debajo del 30%, todo al 100% por encima de 85 °C y el control vuelve a la BIOS al cerrar Pulso.
+
 # Pulso 2.12.1 — 19/11/2026
 
 - Menu lateral mais limpo: ícones discretos, nomes mais curtos, ferramentas e testes separados e sinais pequenos no lugar de textos.
