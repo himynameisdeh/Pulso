@@ -4,6 +4,10 @@
 
 - Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.
 
+**🇺🇸** Everything about fans was removed: RPM readings (motherboard and graphics card) and the fans panel on the Motherboard screen.
+
+**🇪🇸** Se quitó todo lo relacionado con ventiladores: lectura de RPM (placa madre y tarjeta de video) y el panel de ventiladores de la pantalla Placa madre.
+
 # Pulso 2.13.1 — 22/11/2026
 
 - Removido o controle das ventoinhas (a leitura de RPM continua na tela Placa-mãe).
