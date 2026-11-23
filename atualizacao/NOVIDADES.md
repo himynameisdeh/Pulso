@@ -1,5 +1,10 @@
 # Novidades · What's new · Novedades
 
+# Pulso 2.15 — 23/11/2026
+
+- Gargalo agora mostra o frametime (tempo de cada quadro), o 1% low, o 0,1% low e as travadinhas por minuto; o 1% low também aparece na mini janela dos jogos e no celular.
+- Novo Teste de estabilidade: deixa processador e placa de vídeo no máximo por 5 a 30 minutos e diz se o PC é estável, se esquenta demais ou se perde desempenho pelo calor.
+
 # Pulso 2.14 — 22/11/2026
 
 - Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.

@@ -1,7 +1,7 @@
 {
-  "version": "2.14",
-  "sha256": "ee1b5bc89c47cb68add31dab239603363cac72452a5474c8996c4032faad7bf7",
-  "notes": "Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.",
-  "date": "2026-11-22",
-  "sig": "KTg172caoDWgoav6rCs99BgAie8C8EaeF5Ksg0D8kyDNEAE0xpDhpKcrRgpJ+rFOAuUjCVEm0gDHyRvG+v1GCg=="
+  "version": "2.15",
+  "sha256": "d388ef34804110bbcce3efb2958ce746812f364d63d37a8b9936f0c721da6b4a",
+  "notes": "Gargalo agora mostra o frametime (tempo de cada quadro), o 1% low, o 0,1% low e as travadinhas por minuto; o 1% low também aparece na mini janela dos jogos e no celular.\nNovo Teste de estabilidade: deixa processador e placa de vídeo no máximo por 5 a 30 minutos e diz se o PC é estável, se esquenta demais ou se perde desempenho pelo calor.",
+  "date": "2026-11-23",
+  "sig": "E5C1w4RynDwe4bFVLZkVzARL0Bin7T5baSZ8O2IDoFU7AF4quZPMm3Cd8S3pLMNMHL3vc71xonCWn5wkqnaqCQ=="
 }
