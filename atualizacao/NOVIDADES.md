@@ -5,6 +5,10 @@
 - Gargalo agora mostra o frametime (tempo de cada quadro), o 1% low, o 0,1% low e as travadinhas por minuto; o 1% low também aparece na mini janela dos jogos e no celular.
 - Novo Teste de estabilidade: deixa processador e placa de vídeo no máximo por 5 a 30 minutos e diz se o PC é estável, se esquenta demais ou se perde desempenho pelo calor.
 
+**🇺🇸** Bottleneck now shows frametime, 1% low, 0.1% low and stutters per minute (1% low also appears in the in-game mini window and on the phone). New Stability test: pushes the processor and graphics card to the max for 5 to 30 minutes and tells you if the PC is stable, overheats or loses performance from heat.
+
+**🇪🇸** Cuello de botella ahora muestra frametime, 1% low, 0,1% low y tirones por minuto (el 1% low también aparece en la mini ventana de juegos y en el celular). Nueva Prueba de estabilidad: lleva el procesador y la tarjeta de video al máximo de 5 a 30 minutos y dice si el PC es estable, si se calienta demasiado o si pierde rendimiento por el calor.
+
 # Pulso 2.14 — 22/11/2026
 
 - Removido tudo sobre ventoinhas: leitura de RPM (placa-mãe e placa de vídeo) e o quadro de ventoinhas da tela Placa-mãe.
